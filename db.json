@@ -1,0 +1,15 @@
+{
+  "configuracoes": [
+    {
+      "objectColor": "#00ff88",
+      "lightIntensity": 0.4,
+      "backgroundColor": 0.2,
+      "position": {
+        "x": 0.9,
+        "y": 0,
+        "z": 0
+      },
+      "id": "1"
+    }
+  ]
+}
